@@ -3,7 +3,7 @@
 🎓 Estudante de Análise e Desenvolvimento de Sistemas (ADS)  
 💻 Desenvolvedor web com foco em HTML, CSS, JavaScript e criação de bots personalizados  
 🌱 Atualmente desenvolvendo um chatbot para lanchonetes e um site institucional sobre produtos naturais  
-📫 Contato: estacio.santos@email.com | [WhatsApp]75 9 9991-1930 | [Instagram](https://instagram.com/seuperfil)
+📫 Contato: estacio.santos@email.com | [WhatsApp] (75 9 9991-1930) | [Instagram](https://instagram.com/seuperfil)
 
 ---
 
